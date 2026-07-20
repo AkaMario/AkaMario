@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFZciEjO1fMTw/profile-displaybackgroundimage-shrink_350_1400/B56Zd1eN8oGoAY-/0/1750022547481?e=1782345600&v=beta&t=6x0jPyr96hm5noz-yTw4su0mQRuKnAIwEP1quqSM7fM" width="100%" alt="Mario Uparela Banner"/>
+<img width="1400" height="350" alt="1750022547481" src="https://github.com/user-attachments/assets/6adf7e36-fa81-4b11-a14e-e871714ee300" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Architect;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
 <p>
 focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
@@ -49,13 +49,7 @@ focused on building scalable web applications, software architecture, cloud solu
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=AkaMario&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
 
-</div>
 
-<div align="center">
-  
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkaMario&theme=github_dark" />
-
-</div>
 
 ---
 
