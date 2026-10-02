@@ -1,7 +1,11 @@
 <div align="center">
 
-<img width="1400" height="350" alt="1750022547481" src="https://github.com/user-attachments/assets/6adf7e36-fa81-4b11-a14e-e871714ee300" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Architect;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
+<!-- <img width="1400" height="350" alt="1750022547481" src="https://github.com/user-attachments/assets/6adf7e36-fa81-4b11-a14e-e871714ee300" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Mario+Uparela,+Software+Architect;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
+<p align="center">
+  <img src="https://gh.crafter.run/AkaMario?theme=dark" alt="GitHub Stats" />
+</p>
+
 <p>
 focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
 </p>
@@ -41,17 +45,13 @@ focused on building scalable web applications, software architecture, cloud solu
 
 ---
 
-# GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkaMario&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=AkaMario&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
-
-
-
----
+ -->
 
 <div align="center">
 
