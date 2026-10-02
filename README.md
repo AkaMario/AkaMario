@@ -2,6 +2,11 @@
 
 <img width="1400" height="350" alt="1750022547481" src="https://github.com/user-attachments/assets/6adf7e36-fa81-4b11-a14e-e871714ee300" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Architect;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="AkaMario's GitHub profile" src="dark_mode.svg" />
+</picture>
 <p>
 focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
 </p>
