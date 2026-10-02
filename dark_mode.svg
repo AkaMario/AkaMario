@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 854 60" width="854" height="60">
+  <style>
+    .background { fill: #0d1117; }
+    .border { stroke: #30363d; stroke-width: 1; }
+    .text-primary { fill: #c9d1d9; font-family: 'Courier New', monospace; font-size: 12px; }
+    .text-accent { fill: #58a6ff; }
+    .stat-label { fill: #8b949e; font-size: 10px; }
+  </style>
+  
+  <rect class="background" width="854" height="60" />
+  <rect class="border" x="0" y="0" width="853" height="59" fill="none" />
+  
+  <!-- ASCII Art Header -->
+  <text class="text-accent" x="12" y="18">🚀 @AkaMario</text>
+  <text class="text-primary" x="12" y="35">Full Stack Developer | Software Architect | Cloud & DevOps Engineer</text>
+  <text class="text-primary" x="12" y="50">Portfolio: marioupareladev.vercel.app</text>
+</svg>
