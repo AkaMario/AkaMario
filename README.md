@@ -2,9 +2,12 @@
 
 <!-- <img width="1400" height="350" alt="1750022547481" src="https://github.com/user-attachments/assets/6adf7e36-fa81-4b11-a14e-e871714ee300" /> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Mario+Uparela,+Software+Architect;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
+
 <p align="center">
   <img src="https://gh.crafter.run/AkaMario?theme=dark" alt="GitHub Stats" />
 </p>
+
+<!-- <img width="3381" height="1465" alt="68747470733a2f2f67682e637261667465722e72756e2f416b614d6172696f3f7468656d653d6461726b" src="https://github.com/user-attachments/assets/ba576705-3e4b-4e15-a7a0-dd0597fe7de8" /> -->
 
 <p>
 focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
