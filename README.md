@@ -9,14 +9,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Mario+Uparela,+Software+Architect;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;React+%7C+Laravel+%7C+Python" />
 <!-- <img width="3381" height="1465" alt="68747470733a2f2f67682e637261667465722e72756e2f416b614d6172696f3f7468656d653d6461726b" src="https://github.com/user-attachments/assets/ba576705-3e4b-4e15-a7a0-dd0597fe7de8" /> -->
 
-<p>
-focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
-</p>
 
 <a href="https://marioupareladev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<p>
+focused on building scalable web applications, software architecture, cloud solutions, and modern development workflows.
+</p>
 
 </div>
 
